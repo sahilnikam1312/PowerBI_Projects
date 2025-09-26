@@ -2,9 +2,7 @@
 Dashboard for car_price
 
 
-## Overview
-A one-paragraph summary: what this project is, dataset source, and objective.
-Example: "This project analyzes a dataset of vehicle entry prices to explore price distribution by maker and model year, and to identify trends and outliers."
+
 
 ## Dataset
 - **Filename:** Price_table.csv
