@@ -1,7 +1,6 @@
 # PowerBI_Projects
 Dashboard for car_price
-# Project Title
-Short descriptive project title (e.g. Price Table Analysis — Power BI)
+
 
 ## Overview
 A one-paragraph summary: what this project is, dataset source, and objective.
